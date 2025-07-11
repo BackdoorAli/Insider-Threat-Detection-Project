@@ -13,7 +13,7 @@ This project demonstrates a complete, practical data analysis workflow using a r
 - `jupyter_notebooks/`: All EDA and cleaning notebooks
 - `excel_dashboard/`: Final Excel pivot table with suspicious login counts
 - `output/`: Example output CSVs for top user logons and activity scores
-- `Screenshots/`: Screenshots captured during the project creation and development
+- `Screenshots/`: Screenshots captured during the project's creation and development
 
 ---
 
