@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates a complete, practical data analysis workflow using a real-world insider threat dataset. The primary goal is to detect suspicious insider activities through data exploration, cleaning, and insightful reporting. The project shows how to handle raw logs, process them for analysis, identify anomalies, and build an actionable dashboard.
+This project demonstrates a complete, practical data analysis workflow using a real-world insider threat dataset. The primary goal is to detect suspicious insider activities through data exploration, cleaning, and insightful reporting. The project shows how to handle raw logs, process them for analysis, identify anomalies and build an actionable dashboard.
 
 ---
 
