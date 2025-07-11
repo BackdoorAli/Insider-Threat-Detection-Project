@@ -13,6 +13,6 @@ venv/
 # Log files
 *.log
 
-# Large dataset folders - IGNORE THESE!
+# Large dataset folders
 Insider Threat Test Dataset/data_raw/
 Insider Threat Test Dataset/data_processed/
