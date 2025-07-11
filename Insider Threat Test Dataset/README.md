@@ -30,9 +30,11 @@ You can download the full raw dataset directly here:
 
 If you want to version-control large files yourself, consider using **Git Large File Storage (Git LFS)**.
 
+---
+
 ## Author
 
-Copyright © [BackdoorAli](https://github.com/BackdoorAli)
+[BackdoorAli](https://github.com/BackdoorAli)
 
 ---
 
